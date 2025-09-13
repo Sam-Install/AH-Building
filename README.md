@@ -5,10 +5,11 @@ This project showcases the company’s services, completed projects, and an easy
 
 ---
 
+## 🔗 Live Demo  
 
-🔗 Live Demo
+[**Click here to view the live site**](https://ahconst.netlify.app)
 
-Click here to view the live site
+---
 
 ## 🚀 Features
 
@@ -23,10 +24,10 @@ Click here to view the live site
 
 ## 🛠️ Tech Stack
 
-- **React** – Frontend framework
-- **Tailwind CSS** – Styling and layout
-- **React Router** – For navigation
-- **Framer Motion** (optional) – Smooth animations
+- **React** – Frontend framework  
+- **Tailwind CSS** – Styling and layout  
+- **React Router** – For navigation  
+- **Framer Motion** *(optional)* – Smooth animations  
 
 ---
 
