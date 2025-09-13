@@ -1,19 +1,18 @@
 # 🏗️ AH-Building – Construction Company Website
 
 A modern, responsive construction company website built with **React** and styled with **Tailwind CSS**.  
-This project showcases the company’s services, completed projects, blog posts, and an easy way for clients to get in touch via WhatsApp.
+This project showcases the company’s services, completed projects, and an easy way for clients to book a call via WhatsApp.
 
 ---
 
 ## 🚀 Features
 
-- **Beautiful Hero Section** – clean and responsive landing area with call-to-action.
-- **Services Section** – lists core construction services with descriptions.
-- **Projects Showcase** – highlights completed projects with images.
-- **Contact Form** – easy-to-use form for client inquiries.
-- **WhatsApp Button** – direct link to chat with the company.
-- **Blog Section** – share tips and updates with potential clients.
-- **Fully Responsive** – works on all devices (mobile, tablet, desktop).
+- **Beautiful Hero Section** – Clean, responsive landing area with a call-to-action.
+- **Services Section** – Displays core construction services with descriptions.
+- **Projects Showcase** – Highlights completed projects with images.
+- **Contact Form** – Easy-to-use form for client inquiries.
+- **WhatsApp Button** – Direct link to chat with the company.
+- **Responsive Design** – Works perfectly on mobile, tablet, and desktop screens.
 
 ---
 
@@ -21,8 +20,8 @@ This project showcases the company’s services, completed projects, blog posts,
 
 - **React** – Frontend framework
 - **Tailwind CSS** – Styling and layout
-- **React Router** – Page navigation
-- **Framer Motion** (optional) – Animations
+- **React Router** – For navigation
+- **Framer Motion** (optional) – Smooth animations
 
 ---
 
@@ -48,13 +47,3 @@ npm install
 
 # 4. Start the development server
 npm run dev
-
-
----
-
-## 🔗 Live Demo
-
-[**Click here to view the live site**](https://ahconst.netlify.app)
-
----
-
