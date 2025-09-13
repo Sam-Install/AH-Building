@@ -6,8 +6,9 @@ This project showcases the company’s services, completed projects, and an easy
 ---
 
 
-#LIVE DEMO
-ahconst.netlify.app
+🔗 Live Demo
+
+Click here to view the live site
 
 ## 🚀 Features
 
