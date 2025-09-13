@@ -1,12 +1,60 @@
-# React + Vite
+# 🏗️ AH-Building – Construction Company Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive construction company website built with **React** and styled with **Tailwind CSS**.  
+This project showcases the company’s services, completed projects, blog posts, and an easy way for clients to get in touch via WhatsApp.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- **Beautiful Hero Section** – clean and responsive landing area with call-to-action.
+- **Services Section** – lists core construction services with descriptions.
+- **Projects Showcase** – highlights completed projects with images.
+- **Contact Form** – easy-to-use form for client inquiries.
+- **WhatsApp Button** – direct link to chat with the company.
+- **Blog Section** – share tips and updates with potential clients.
+- **Fully Responsive** – works on all devices (mobile, tablet, desktop).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Frontend framework
+- **Tailwind CSS** – Styling and layout
+- **React Router** – Page navigation
+- **Framer Motion** (optional) – Animations
+
+---
+
+## 📷 Preview
+
+![Website Preview](./src/assets/house1.jpg)
+
+---
+
+## 🧑‍💻 Getting Started
+
+Follow these steps to run the project locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Sam-Install/AH-Building.git
+
+# 2. Go into the project folder
+cd AH-Building
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+
+---
+
+## 🔗 Live Demo
+
+[**Click here to view the live site**](https://ahconst.netlify.app)
+
+---
+
